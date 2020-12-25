@@ -1,5 +1,5 @@
 # deep_learning
-Portfólio de aplicações e uso do TensorFlow em fontes de dados públicas.
+Portfólio de aplicações e uso do TensorFlow e outras soluções de redes neurais em fontes de dados públicas.
 
 <details>
   <summary><b>Classificação</b></summary>  
