@@ -12,7 +12,7 @@ Portfólio de aplicações e uso do TensorFlow e outras soluções de redes neur
 </details>
 
 <details>
-  <summary><b>Clusterização</b></summary>  
+  <summary><b>Agrupamento</b></summary>  
   <p>
 
 **Indentificação de outliers em fraudes de cartão de crédito usando MiniSom.**<br/>
