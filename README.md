@@ -6,8 +6,9 @@ Portfólio de aplicações e uso do TensorFlow e outras soluções de redes neur
   <p>
 
 **Indentificação de espécies de pinguins através das características**<br/>
-**TensorFlow**<br/>
-[analise_pinguins_deep.ipynb](analise_pinguins_deep.ipynb)<br/>
+**TensorFlow, relu->sigmoid->adam X relu->softmax->sgd **<br/>
+[analise_pinguins_relu_sigmoid_adam.ipynb](analise_pinguins_relu_sigmoid_adam.ipynb)<br/>
+[analise_pinguins_relu_softmax_sgd.ipynb](analise_pinguins_relu_softmax_sgd.ipynb)<br/>
 
 </details>
 
